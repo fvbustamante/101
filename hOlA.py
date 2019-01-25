@@ -100,7 +100,7 @@ def spy_game(lista):
 
 #COUNT PRIMES: Write a function that returns the number of prime numbers
 #  that exist up to and including a given number
-#%%
+
 def count_primes(num):
     lista=list(range(1,num+1))
     resultado=[]
