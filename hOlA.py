@@ -117,3 +117,6 @@ def count_primes(num):
         i=i+1    
     return len(resultado)
 count_primes(541)
+
+def Saluda():
+    return ("Hola")
